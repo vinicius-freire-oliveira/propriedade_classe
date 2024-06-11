@@ -1,0 +1,1 @@
+# propriedade_classe
